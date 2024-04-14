@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `Directory`
-cd api and cd cd client
+cd api and cd client
 
 ### `npm install`
 ### `npm start`
