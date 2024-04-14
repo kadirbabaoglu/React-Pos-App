@@ -6,8 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `Directory`
+cd api and cd cd client
+
 ### `npm install`
 ### `npm start`
 
-![alt text](https://github.com/kadirbabaoglu/React-Login-Page/blob/main/public/images/light.JPG)
-![alt text](https://github.com/kadirbabaoglu/React-Login-Page/blob/main/public/images/dark.JPG)
+![alt text](https://github.com/kadirbabaoglu/React-Pos-App/blob/main/client/public/img/1.PNG)
+![alt text](https://github.com/kadirbabaoglu/React-Pos-App/blob/main/client/public/img/2.PNG)
